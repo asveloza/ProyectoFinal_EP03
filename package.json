@@ -1,0 +1,28 @@
+{
+  "name": "trivia",
+  "version": "1.0.0",
+  "description": "conectar el front con el back ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "asveloza"
+  },
+  "keywords": [
+    "veloza",
+    "trivia",
+    "udec",
+    "ep03"
+  ],
+  "author": "Allan Veloza Rodriguez, Jorge Rubiano",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "consolidate": "^0.13.1",
+    "express": "^4.13.3",
+    "mysql": "^2.9.0",
+    "swig": "^1.4.2"
+  }
+}
